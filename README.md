@@ -1,3 +1,5 @@
+> Elementary OS Freya do not distrub mode. Kills chrome and disables notifications.
+
 ```
        __          __
   ____/ /___  ____/ /
@@ -6,14 +8,12 @@
 \__,_/_/ /_/\__,_/
 ```
 
-Elementary OS do not disturb mode. This will kill chrome and start the do not disturb mode
-for OS notifications.
 
 Install
 -------
 
-1. Copy dnd to anywhere in \$path
-2. For completions, copy \_dnd to some locations in \$fpath.
+1. Copy [dnd](dnd) to $PATH.
+2. Completions can be enable by copying [\_dnd](\_dnd) to $FPATH.
 
 USAGE
 ------
